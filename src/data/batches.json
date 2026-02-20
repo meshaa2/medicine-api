@@ -1,0 +1,59 @@
+[
+  {
+    "batch_id": "BAT-90001",
+    "medicine_id": "MED-0101",
+    "quantity": 80,
+    "expiry_date": "2026-03-15",
+    "received_date": "2025-11-01",
+    "supplier": "Supplier A"
+  },
+  {
+    "batch_id": "BAT-90002",
+    "medicine_id": "MED-0101",
+    "quantity": 20,
+    "expiry_date": "2026-02-25",
+    "received_date": "2025-12-10",
+    "supplier": "Supplier A"
+  },
+  {
+    "batch_id": "BAT-90003",
+    "medicine_id": "MED-0102",
+    "quantity": 15,
+    "expiry_date": "2026-02-22",
+    "received_date": "2025-12-01",
+    "supplier": "Supplier B"
+  },
+  {
+    "batch_id": "BAT-90004",
+    "medicine_id": "MED-0102",
+    "quantity": 10,
+    "expiry_date": "2026-01-10",
+    "received_date": "2025-09-15",
+    "supplier": "Supplier B"
+  },
+  {
+    "batch_id": "BAT-90005",
+    "medicine_id": "MED-0103",
+    "quantity": 60,
+    "expiry_date": "2026-08-10",
+    "received_date": "2026-01-05",
+    "supplier": "Supplier C"
+  },
+  {
+    "batch_id": "BAT-90006",
+    "medicine_id": "MED-0104",
+    "quantity": 5,
+    "expiry_date": "2026-03-05",
+    "received_date": "2026-01-20",
+    "supplier": "Supplier D"
+  },
+  {
+    "batch_id": "BAT-90007",
+    "medicine_id": "MED-0105",
+    "quantity": 18,
+    "expiry_date": "2026-02-20",
+    "received_date": "2026-02-01",
+    "supplier": "Supplier E"
+  }
+]
+

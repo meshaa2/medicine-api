@@ -1,0 +1,43 @@
+[
+  {
+    "medicine_id": "MED-0101",
+    "name": "Paracetamol",
+    "category": "Analgesic",
+    "unit": "tablet",
+    "reorder_level": 50,
+    "status": "active"
+  },
+  {
+    "medicine_id": "MED-0102",
+    "name": "Amoxicillin",
+    "category": "Antibiotic",
+    "unit": "capsule",
+    "reorder_level": 40,
+    "status": "active"
+  },
+  {
+    "medicine_id": "MED-0103",
+    "name": "Cetirizine",
+    "category": "Antihistamine",
+    "unit": "tablet",
+    "reorder_level": 30,
+    "status": "active"
+  },
+  {
+    "medicine_id": "MED-0104",
+    "name": "Salbutamol",
+    "category": "Respiratory",
+    "unit": "inhaler",
+    "reorder_level": 15,
+    "status": "active"
+  },
+  {
+    "medicine_id": "MED-0105",
+    "name": "Metformin",
+    "category": "Diabetes",
+    "unit": "tablet",
+    "reorder_level": 25,
+    "status": "active"
+  }
+]
+

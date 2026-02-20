@@ -1,0 +1,53 @@
+[
+  {
+    "transaction_id": "TRX-70001",
+    "type": "restock",
+    "medicine_id": "MED-0101",
+    "batch_id": "BAT-90001",
+    "quantity": 80,
+    "transaction_date": "2025-11-01",
+    "performed_by": "STAFF-01",
+    "notes": "Initial stock"
+  },
+  {
+    "transaction_id": "TRX-70002",
+    "type": "restock",
+    "medicine_id": "MED-0101",
+    "batch_id": "BAT-90002",
+    "quantity": 20,
+    "transaction_date": "2025-12-10",
+    "performed_by": "STAFF-01",
+    "notes": "Top up"
+  },
+  {
+    "transaction_id": "TRX-70003",
+    "type": "dispense",
+    "medicine_id": "MED-0101",
+    "batch_id": "BAT-90001",
+    "quantity": 10,
+    "transaction_date": "2026-02-10",
+    "performed_by": "STAFF-02",
+    "notes": "OPD"
+  },
+  {
+    "transaction_id": "TRX-70004",
+    "type": "restock",
+    "medicine_id": "MED-0102",
+    "batch_id": "BAT-90003",
+    "quantity": 15,
+    "transaction_date": "2025-12-01",
+    "performed_by": "STAFF-01",
+    "notes": "New delivery"
+  },
+  {
+    "transaction_id": "TRX-70005",
+    "type": "restock",
+    "medicine_id": "MED-0102",
+    "batch_id": "BAT-90004",
+    "quantity": 10,
+    "transaction_date": "2025-09-15",
+    "performed_by": "STAFF-01",
+    "notes": "Older batch"
+  }
+]
+
